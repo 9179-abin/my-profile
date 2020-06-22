@@ -1,0 +1,54 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Comfortaa', cursive;
+}
+
+.row {
+    margin-right: 0;
+    margin-left: 0;
+}
+
+.col,
+[class*="col-"] {
+    padding-left: 0;
+    padding-right: 0;
+}
+.nav-item{
+	padding-right: 3rem;
+    padding-left: 3rem;
+}
+
+body {
+    background-image: url(images/13.jpg);
+    background-size: cover;
+}
+
+.body1 {
+    background-image: url(images/13.jpg);
+    background-size: cover;
+    height: 91vh;
+}
+
+.body2 {
+    background-image: url(images/nn.jpg);
+    background-size: cover;
+    height: 100vh;
+}
+
+.body3 {
+    background-image: url(images/ll.jpg);
+    background-size: cover;
+    height: 100vh;
+}
+
+.body4 {
+    background-image: url(images/oo.jpg);
+    background-size: cover;
+    height: 100vh;
+}
+.body5 {
+	background-color:white;
+    height: 100vh;
+}
